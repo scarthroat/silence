@@ -1,0 +1,344 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6800 64-bit) (preloaded format=pdflatex 2018.9.11)  27 NOV 2018 16:35
+entering extended mode
+**./Silentium.tex
+(Silentium.tex
+LaTeX2e <2018-04-01> patch level 5
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\sc
+rbook.cls"
+Document Class: scrbook 2018/03/30 v3.25 KOMA-Script document class (book)
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\sc
+rkbase.sty"
+Package: scrkbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\sc
+rbase.sty"
+Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyva
+l.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\sc
+rlfile.sty"
+Package: scrlfile 2018/03/30 v3.25 KOMA-Script package (loading files)
+)))
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\to
+cbasic.sty"
+Package: tocbasic 2018/03/30 v3.25 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip41
+\scr@dte@tocline@numbox=\box26
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 136.
+Package tocbasic Info: defining new hook before heading of `' on input line 166
+3.
+Class scrbook Info: File `scrsize11pt.clo' used instead of
+(scrbook)           file `scrsize11.clo' to setup font sizes on input line 2331
+.
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\sc
+rsize11pt.clo"
+File: scrsize11pt.clo 2018/03/30 v3.25 KOMA-Script font size class option (11pt
+)
+)
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\koma-script\ty
+pearea.sty"
+Package: typearea 2018/03/30 v3.25 KOMA-Script package (type area)
+\ta@bcor=\skip42
+\ta@div=\count80
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+\ta@hblk=\skip43
+\ta@vblk=\skip44
+\ta@temp=\skip45
+\footheight=\skip46
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 47.2316pt
+(typearea)              \oddsidemargin  = -12.5192pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1706.
+)
+\c@part=\count81
+\c@chapter=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\scr@dte@part@maxnumwidth=\skip47
+\scr@dte@chapter@maxnumwidth=\skip48
+\scr@dte@section@maxnumwidth=\skip49
+\scr@dte@subsection@maxnumwidth=\skip50
+\scr@dte@subsubsection@maxnumwidth=\skip51
+\scr@dte@paragraph@maxnumwidth=\skip52
+\scr@dte@subparagraph@maxnumwidth=\skip53
+\abovecaptionskip=\skip54
+\belowcaptionskip=\skip55
+\c@pti@nb@sid@b@x=\box27
+\scr@dte@figure@maxnumwidth=\skip56
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 6251.
+\c@figure=\count88
+\scr@dte@table@maxnumwidth=\skip57
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 6272.
+\c@table=\count89
+Class scrbook Info: Redefining `\numberline' on input line 6445.
+\bibindent=\dimen102
+)
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.
+sty"
+Package: babel 2018/09/02 3.23 The Babel package
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch
+.def"
+File: switch.def 2018/09/02 3.23 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.
+cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-german\n
+german.ldf"
+Language: ngerman 2018/03/29 v2.10 German support for babel (post-1996 orthogra
+phy)
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-german\n
+germanb.ldf"
+Language: ngermanb 2018/03/29 v2.10 German support for babel (post-1996 orthogr
+aphy)
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.
+def"
+File: babel.def 2018/09/02 3.23 Babel common definitions
+\babel@savecnt=\count90
+\U@D=\dimen103
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbab
+el.def")
+\bbl@dirlevel=\count91
+)
+Package babel Info: Making " an active character on input line 121.
+)))
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.
+sty"
+Package: inputenc 2018/04/06 v1.3b Input encoding file
+\inpenc@prehook=\toks15
+\inpenc@posthook=\toks16
+)
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\uni-global
+.def"
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count92
+\uc@combtoks=\toks17
+\uc@combtoksb=\toks18
+\uc@temptokena=\toks19
+)
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datetime2\date
+time2.sty"
+Package: datetime2 2018/07/20 v1.5.3 (NLCT) date and time formats
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tracklang\trac
+klang.sty"
+Package: tracklang 2018/05/13 v1.3.6 (NLCT) Track Languages
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\generic\tracklang\tr
+acklang.tex"))
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etool
+box.sty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count93
+)
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyva
+l.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkey
+val.tex"
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvu
+tils.tex"
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count94
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datetime2-germ
+an\datetime2-german.ldf"
+File: datetime2-german.ldf 2017/11/13 v2.1
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxe
+tex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifl
+uatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datetime2-germ
+an\datetime2-german-ascii.ldf"
+File: datetime2-german-ascii.ldf 2017/11/13 v2.1
+))
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\datetime2-germ
+an\datetime2-de-DE.ldf"
+File: datetime2-de-DE.ldf 2017/11/13 v2.1
+))
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fontspec\fonts
+pec.sty")
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fundus-calligr
+a\calligra.sty"
+Package: calligra 2012/04/10 v1.9 LaTeX package calligra
+)
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lettrine\lettr
+ine.sty"
+File: lettrine.sty 2018-08-28 v2.21 (Daniel Flipo)
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\generic\minifp\minif
+p.sty"
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack
+-based programing language.
+\MFP@loopctr=\count95
+)
+\c@DefaultLines=\count96
+\c@DefaultDepth=\count97
+\DefaultFindent=\dimen104
+\DefaultNindent=\dimen105
+\DefaultSlope=\dimen106
+\DiscardVskip=\dimen107
+\L@lbox=\box28
+\L@tbox=\box29
+\c@L@lines=\count98
+\c@L@depth=\count99
+\L@Pindent=\dimen108
+\L@Findent=\dimen109
+\L@Nindent=\dimen110
+\L@lraise=\dimen111
+\L@first=\dimen112
+\L@next=\dimen113
+\L@slope=\dimen114
+\L@height=\dimen115
+\L@novskip=\dimen116
+\L@target@ht=\dimen117
+\L@target@dp=\dimen118
+\L@target@tht=\dimen119
+\LettrineWidth=\dimen120
+\LettrineHeight=\dimen121
+\LettrineDepth=\dimen122
+
+Loading lettrine.cfg
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lettrine\lettr
+ine.cfg"))
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.s
+ty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1enc.def
+"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (Silentium.aux)
+\openout1 = `Silentium.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ucs\ucsencs.de
+f"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 14.
+
+("C:\Users\schiefert\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmss.fd
+"
+File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+
+LaTeX Font Warning: Font shape `T1/calligra/bx/n' undefined
+(Font)              using `T1/calligra/m/n' instead on input line 14.
+
+LaTeX Font Info:    Font shape `T1/calligra/m/n' will be
+(Font)              scaled to size 29.86565pt on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 14.
+[1
+
+
+
+{C:/Users/schiefert/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+
+[2] (Silentium.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6873 strings out of 492973
+ 135580 string characters out of 3124920
+ 307027 words of memory out of 3000000
+ 10685 multiletter control sequences out of 15000+200000
+ 12411 words of font info for 33 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,7n,66p,9117b,224s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\schiefert\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
+600\ecrm1095.pk> <C:\Users\schiefert\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\j
+knappen\ec\dpi600\ecrm1440.pk> <C:\Users\schiefert\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\public\calligra\dpi1195\callig15.pk>
+Output written on Silentium.pdf (2 pages, 24887 bytes).
+PDF statistics:
+ 79 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
